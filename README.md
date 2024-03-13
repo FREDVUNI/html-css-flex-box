@@ -26,7 +26,6 @@ The file structure of the project is as follows:
 
 ## Contributing
 
-Contributions to this project are currently not being accepted.
 
 ## License
 
