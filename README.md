@@ -25,7 +25,7 @@ The file structure of the project is as follows:
 - `images/`: A directory for storing image assets used in the project.
 
 ## Screenshot
-
+![image](https://github.com/FREDVUNI/css-flex/assets/41730664/f97b9556-bb06-44b7-a094-9601a8784dae)
 
 ## License
 
