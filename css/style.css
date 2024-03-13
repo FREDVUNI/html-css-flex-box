@@ -46,3 +46,9 @@ body {
     height:450px;
     margin-bottom: 40px;
 }
+
+@media screen(max-width:480px){
+    .row{
+        display:column;
+    }
+}
