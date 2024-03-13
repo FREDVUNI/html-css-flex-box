@@ -24,7 +24,7 @@ The file structure of the project is as follows:
 - `css/`: A directory containing CSS files for styling the project.
 - `images/`: A directory for storing image assets used in the project.
 
-## Contributing
+## Screenshot
 
 
 ## License
