@@ -36,6 +36,10 @@ body {
   width: 46%;
   color: rgb(45, 55, 72);
 }
+.col-6 i {
+  margin-top: 15px;
+  font-size: 25px;
+}
 .p-tag {
   font-size: 1.25rem;
   line-height: 2rem;
@@ -49,6 +53,24 @@ body {
 
 @media (max-width: 480px) {
   .row {
-    display: column;
+    display: block;
+  }
+  .col-6 {
+    width: 100%;
+  }
+  .title {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 720px) {
+  .row {
+    display: block;
+  }
+  .col-6 {
+    width: 100%;
+  }
+  .title {
+    font-size: 22px;
   }
 }
